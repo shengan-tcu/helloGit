@@ -1,2 +1,8 @@
 123456
 this is a test
+<<<<<<< HEAD
+I don't know
+
+=======
+that is a pen
+>>>>>>> 347b37c586ac70d5c976c91469813d4438c8b111
